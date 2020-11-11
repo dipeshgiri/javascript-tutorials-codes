@@ -1,0 +1,12 @@
+console.time('My Code Took');
+console.log("Hello Dipesh Welcome to the javascript tutorials");
+console.log(4+86);
+console.log(true);
+console.log([1,2,34,56]);
+console.log({name:"Dipesh",class:"Bei"});
+console.table({name:"Dipesh",class:"Bei"});
+console.warn("This is A warning");
+//console.clear();
+console.timeEnd('My Code Took');
+console.assert(567<189,'This is not possible ');
+console.error("This is error");
